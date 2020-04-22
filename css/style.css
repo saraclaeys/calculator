@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.button {
+    width: 50;
+    height: 50;
+    font-size: 25;
+    margin: 2;
+}
