@@ -9,6 +9,7 @@
     height: 50;
     font-size: 25;
     margin: 2;
+    cursor: pointer;
 }
 
 .textview {
