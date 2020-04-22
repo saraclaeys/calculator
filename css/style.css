@@ -4,6 +4,21 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #00A368;
+    ;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    padding-top: 5%;
+    font-size: 3.5em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
 .button {
     width: 50px;
     height: 50px;
@@ -17,4 +32,13 @@
     margin: 5px;
     font-size: 25px;
     padding: 5px;
+}
+
+.main {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    background: #fff;
+    border: 10px solid white;
 }
