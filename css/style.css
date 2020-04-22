@@ -10,3 +10,10 @@
     font-size: 25;
     margin: 2;
 }
+
+.textview {
+    width: 217;
+    margin: 5;
+    font-size: 25;
+    padding: 5;
+}
